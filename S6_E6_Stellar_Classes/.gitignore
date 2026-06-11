@@ -1,0 +1,17 @@
+# Virtual environment
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Data (comment out if you want to track it)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc

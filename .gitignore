@@ -1,0 +1,17 @@
+# Virtual environments (inside any subfolder)
+**/bin/
+**/lib/
+**/include/
+**/share/
+**/pyvenv.cfg
+
+# Data
+**/data/
+**/*.csv
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
